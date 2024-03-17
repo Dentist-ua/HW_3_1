@@ -1,0 +1,5 @@
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_3\obj\Debug\net7.0\HW_3_1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_3\obj\Debug\net7.0\HW_3_1_3.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_3\obj\Debug\net7.0\HW_3_1_3.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_3\obj\Debug\net7.0\HW_3_1_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_3\obj\Debug\net7.0\HW_3_1_3.sourcelink.json
