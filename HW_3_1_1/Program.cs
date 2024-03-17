@@ -12,7 +12,7 @@ class Program
         var input1 = Console.ReadLine();
         double.TryParse(input1, out double side1);
         
-        Console.WriteLine("Enter side1");
+        Console.WriteLine("Enter side2");
         var input2 = Console.ReadLine();
         double.TryParse(input2, out double side2);
 
@@ -22,7 +22,7 @@ class Program
 
         double perimetr = rectangle.PerimeterCalculator;
 
-        Console.WriteLine($"{area}, {perimetr}");
+        Console.WriteLine($"Area={area}, perimetr={perimetr}");
 
     }
 

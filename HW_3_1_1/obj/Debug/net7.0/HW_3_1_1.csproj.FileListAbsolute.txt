@@ -12,3 +12,4 @@ C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_1\obj\Debug\net7.0\refint\HW_3_1_1.dl
 C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_1\obj\Debug\net7.0\HW_3_1_1.pdb
 C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_1\obj\Debug\net7.0\HW_3_1_1.genruntimeconfig.cache
 C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_1\obj\Debug\net7.0\ref\HW_3_1_1.dll
+C:\Users\Admin\RiderProjects\HW_3_1\HW_3_1_1\obj\Debug\net7.0\HW_3_1_1.sourcelink.json
